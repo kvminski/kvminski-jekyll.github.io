@@ -38,15 +38,15 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Bartosz Kaminski
+  name: Bartosz_Kaminski
   email: k4minski2@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username      # change to your twitter homepage
-    https://github.com/kvminski       # change to your github homepage
+    - https://github.com/kvminski       # change to your github homepage
     # Uncomment below to add more social links
-    https://www.facebook.com/kaminski.bartosz.96
-    https://www.linkedin.com/in/kvminski
+    - https://www.facebook.com/kaminski.bartosz.96
+    - https://www.linkedin.com/in/kvminski
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
