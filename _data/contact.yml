@@ -9,10 +9,10 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://linkedin.com/in/kvminski'                  # Fill with your Linkedin homepage
 -
-  type: facebook
-  icon: 'fab fa-facebook'
-  url: 'https://www.facebook.com/kaminski.bartosz.96'
--
+#  type: facebook
+#  icon: 'fab fa-facebook'
+#  url: 'https://www.facebook.com/kaminski.bartosz.96'
+#-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
