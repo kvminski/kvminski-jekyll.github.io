@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://kvminski.github.io/kvminski-jekyll.github.io/sitemap.xml
