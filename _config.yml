@@ -13,14 +13,14 @@ baseurl: '/kvminski-jekyll.github.io'
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Warsaw
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: kvminski.pl                         # the main title
+title: kvminski                         # the main title
 
-tagline: My little test site   # it will display as the sub-title
+tagline: Test site   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Well,
